@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Einzelabgabe_Knapp</string>
+    <string name="Enter">Button</string>
+    <string name="Answer">TextView</string>
+    <string name="editedText">EditText</string>
+    <string name="editText">Name</string>
+    <string name="enter">Enter</string>
+    <string name="berechnen">Berechnen</string>
+    <string name="senden">Senden</string>
+</resources>
